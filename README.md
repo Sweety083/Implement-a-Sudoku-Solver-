@@ -1,7 +1,7 @@
 # Implement a Sudoku Solver From Scratch
-<h2><b>Name: Sabari Akash A
+<h2><b>Name: Sweety R
 
-Register No:212222230124</b></h2>
+Register No:RA2211026010083</b></h2>
 # Aim: 
 To Implement a Sudoku Solver From Scratch
 
